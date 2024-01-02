@@ -1,3 +1,15 @@
+/* { my custom */
+.my-button {
+  background-color: #492a99;
+  color: aliceblue;
+}
+.my-button:hover {
+  background-color: #8366cc;
+  color: aliceblue;
+}
+/* } my custom */
+
+
 /**
 * Template Name: iPortfolio
 * Updated: May 30 2023 with Bootstrap v5.3.0
